@@ -1,0 +1,17 @@
+# Android/Java standard
+*.iml
+.idea/
+.gradle/
+build/
+/local.properties
+/.vs/
+.DS_Store
+*.apk
+*.aab
+*.keystore
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
